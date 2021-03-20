@@ -1,0 +1,12 @@
+## Title: Addon Enhancer
+## APIVersion: 100034 100035
+## SavedVariables: AddonEnhancerSavedVars
+## AddOnVersion: 1000
+## Author: Valandil
+## Description: Allows you to save & reload packages of addons, whether they are turned ON/OFF.
+## DependsOn: LibDialog>=123
+
+## Addon source
+xml/AddonEnhancer.xml
+AddonEnhancer.lua
+xml/bindings.xml
